@@ -1,2 +1,2 @@
 # Networks
-<h1> Networks Lab Projects to Implement TCP/UDP Side Applications using C Socket Programming API<h1>
+<h1> Networks Lab Projects to Implement TCP/UDP Applications using C Socket Programming API<h1>
