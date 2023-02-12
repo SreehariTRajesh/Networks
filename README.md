@@ -7,3 +7,5 @@
   <li><b>TLD SERVER</b><br/>Routes the incoming domain name to AUTH Server by checking the entire Domain</li>
   <li><b>AUTH SERVER</b><br/>Contains NS-IPAddr Mapping and returns the IP Address corresponding to the domain</li>
 </ul>
+<img src="Screenshot from 2023-02-12 20-03-23.png"></img>
+<img src="Screenshot from 2023-02-12 20-03-23.png"></img>
